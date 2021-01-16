@@ -2,7 +2,7 @@
 // @name         Cofanie wsparcia
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @author       ABC*
+// @author       Hermitowski, ABC*
 // @include      https://*.plemiona.pl/game.php?*screen=place*mode=units*
 // @grant        none
 // ==/UserScript==
