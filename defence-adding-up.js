@@ -70,10 +70,6 @@
             $("#show_incoming_units").before(gui);
         }
 
-        if (get_commands_count(-1, true, true) === 0) {
-            $("#commands_script").hide();
-        }
-
         $("input[type=radio]").change(function () {
             refresh_gui();
         });
